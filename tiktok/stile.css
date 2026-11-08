@@ -1,0 +1,6 @@
+body{margin:0;background:#0A0F1F;color:#E8ECF5;font:17px/1.6 -apple-system,Segoe UI,Inter,Arial,sans-serif}
+main{max-width:720px;margin:0 auto;padding:40px 20px}
+h1{font-size:30px;margin:0 0 8px}h2{font-size:20px;margin-top:32px}
+.tag{display:inline-block;background:#FFD23F;color:#141821;font-weight:800;padding:4px 12px;border-radius:7px}
+a{color:#FFD23F}code,.box{background:#1B2647;border-radius:8px;padding:12px 14px;display:block;word-break:break-all;font-family:ui-monospace,monospace}
+small{color:#9AA6C2}
